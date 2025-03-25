@@ -1,4 +1,4 @@
-### Hi there, I'm [Sachin Ajeetkumar Singh]! 👋
+### Hi there, I'm Sachin Ajeetkumar Singh! 👋
 
 🚀 **Developer | Innovator | AI Enthusiast**
 
