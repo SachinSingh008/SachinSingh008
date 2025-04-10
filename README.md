@@ -37,7 +37,7 @@
 ---
 
 ### 🏆 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=SachinSingh008&theme=radical&hide_border=false)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSingh008&theme=radical" alt="GitHub Streak" />
 
 ---
 
