@@ -59,10 +59,9 @@
 ### 📈 GitHub Stats
 
 <!-- You can uncomment these when needed -->
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=radical)
--->
+
 
 <!-- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSingh008&theme=radical" alt="GitHub Streak" /> 
