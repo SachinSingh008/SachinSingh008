@@ -12,8 +12,7 @@
 - 🌐 **Full-Stack Developer** – From wireframes to scalable systems  
 - 🛍️ Currently building **HypeNest** – A next-gen fashion eCommerce platform  
 - 🤖 Experimenting with **AI-Powered Recommendation Engines**  
-- 💻 Learning **Flutter, Networking Concepts & System Design**  
-- 🎮 Passionate about **Game Dev, Creative Coding & User-Centric Design**  
+- 💻 Learning **React and System Design**  
 - 💡 Always curious, always creating – **Let’s build something awesome together!**
 
 ---
