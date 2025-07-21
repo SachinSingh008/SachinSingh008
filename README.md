@@ -64,7 +64,7 @@
 
 
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinSingh008&theme=radical" alt="GitHub Streak" /> 
+<img src="https://streak-stats.demolab.com/?user=SachinSingh008&theme=radical" alt="GitHub Streak" />
 
 
 ---
