@@ -59,8 +59,37 @@
 
 <!-- You can uncomment these when needed -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=radical)
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=parasjagdale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=parasjagdale&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=parasjagdale&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=parasjagdale&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjagdale&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=10">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjagdale&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=10" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=parasjagdale&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FF6B6B&area=true&hide_border=true&border_radius=10&height=250">
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=parasjagdale&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FF6B6B&area=true&hide_border=true&border_radius=10" alt="Activity Graph" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parasjagdale/parasjagdale/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
  
