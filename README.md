@@ -50,8 +50,11 @@
 
 ### 🌍 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-singh-champion008/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinsingh008/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sachinsingh008.github.io/portfolio/)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/reader/users/darkf33f5c245ce)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachin_Singh_008/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31107710/sachin-singh)
 
 ---
 
