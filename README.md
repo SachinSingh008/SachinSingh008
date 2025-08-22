@@ -91,11 +91,6 @@
   </picture>
 </div>
 
-
- 
-<img src="https://streak-stats.demolab.com/?user=SachinSingh008&theme=radical" alt="GitHub Streak" />
-
-
 ---
 
 ### 🎯 Fun Fact
