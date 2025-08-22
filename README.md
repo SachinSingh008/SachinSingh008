@@ -55,7 +55,6 @@
 
 ---
 
-
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
@@ -87,12 +86,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SachinSingh008/SachinSingh008/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
-### 🎯 Fun Fact
-
-💡 I believe **technology is the closest thing we have to magic**. Whether it's AI solving complex problems or a beautiful UI making someone smile – I'm here to innovate, build, and grow. Let's make the future awesome! ✨
-
----
-
