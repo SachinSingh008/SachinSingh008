@@ -88,5 +88,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SachinSingh008&theme=onedark" alt="trophies">
 </div>
 
-
-github stats are not seen
