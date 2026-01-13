@@ -60,16 +60,7 @@
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
+
 
 <div align="center">
   <picture>
