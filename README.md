@@ -1,90 +1,336 @@
-<h1 align="center">Hi there, I'm Sachin Ajeetkumar Singh! 👋</h1>
+<h1 align="center">
+Hi 👋, I'm Sachin Singh
+</h1>
+
+<h3 align="center">
+AI Engineer • Data Scientist • Full Stack Developer • Problem Solver
+</h3>
 
 <p align="center">
-🚀 <strong>Developer | AI Engineer | Tech Innovator | Web Enthusiast</strong>  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer;Building+Products+that+Matter" />
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SachinSingh008&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/SachinSingh008?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/SachinSingh008?affiliations=OWNER&style=social"/>
+
 </p>
 
 ---
 
-### 🔥 About Me
+# 🚀 About Me
 
-- 🧠 **AI & Data Science Enthusiast** – Building smart solutions for real-world problems  
-- 🌐 **Full-Stack Developer** – From wireframes to scalable systems  
-- 🛍️ Currently building **HypeNest** – A next-gen fashion eCommerce platform  
-- 🤖 Experimenting with **AI-Powered Recommendation Engines**  
-- 💻 Learning **React and System Design**  
-- 💡 Always curious, always creating – **Let’s build something awesome together!**
+🎓 Computer Science Engineer
 
----
+💼 Passionate about solving real-world problems using AI and scalable software.
 
-### 💼 Tech Stack & Tools
+🔭 Currently Building
 
-#### 👨‍💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+- AI based Optimization Software
+- Industrial ERP Solutions
+- AI Recommendation Systems
+- Full Stack SaaS Applications
 
-#### 📊 Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+🌱 Currently Learning
 
-#### 🧠 AI & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- System Design
+- Cloud Computing
+- Kubernetes
+- LLM Engineering
+- Advanced Machine Learning
 
-#### 🌐 Frontend Love
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+💬 Ask me about
 
----
+```
+Python
+React
+Next.js
+Flutter
+Machine Learning
+Power BI
+SQL
+Firebase
+AI
+```
 
-### 🌍 Connect with Me
+⚡ Fun Fact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinsingh008/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sachinsingh008.github.io/portfolio/)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/reader/users/darkf33f5c245ce)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sachin_Singh_008/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/31107710/sachin-singh)
+> I enjoy turning complex business problems into intelligent software.
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak Stats" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
+# 🛠 Tech Stack
 
+## Programming Languages
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&border_radius=10" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh008&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FF6B6B&area=true&hide_border=true&border_radius=10&height=250">
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh008&theme=tokyo-night&bg_color=0D1117&color=FFFFFF&line=00FFFF&point=FF6B6B&area=true&hide_border=true&border_radius=10" alt="Activity Graph" style="max-width: 100%; height: auto;" />
-  </picture>
-</div>
+<p>
 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,javascript,typescript,dart"/>
 
-<hr/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinSingh008&theme=onedark" alt="trophies">
-</div>
+</p>
 
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,firebase"/>
+
+</p>
+
+---
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase"/>
+
+</p>
+
+---
+
+## AI / Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+</p>
+
+| Libraries |
+|-----------|
+| NumPy |
+| Pandas |
+| Scikit-Learn |
+| Matplotlib |
+| Seaborn |
+| XGBoost |
+| TensorFlow |
+| Keras |
+| OpenCV |
+
+---
+
+## Data Analytics
+
+- Power BI
+- Excel
+- SQL
+- Looker
+- Tableau (Basics)
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🛍 HypeNest
+
+AI Powered Fashion Recommendation Platform
+
+- React
+- Python
+- TensorFlow
+- Flask
+- MySQL
+
+---
+
+### 📈 TruPoint
+
+Stock Market Advisory Platform
+
+- Flutter
+- Firebase
+- Node.js
+- PostgreSQL
+- Zerodha API
+
+---
+
+### 🍽 Tap2Eat
+
+QR Based Restaurant Ordering System
+
+- Next.js
+- Firebase
+- AI Chatbot
+
+---
+
+### ⚙️ OptiCutter
+
+Industrial Steel Optimization Software
+
+- React
+- Firebase
+- Optimization Algorithms
+
+---
+
+### 🤖 AI Fashion Recommendation
+
+Deep Learning Image Recommendation using ResNet50
+
+---
+
+# 🏆 Certifications
+
+- ServiceNow Certified System Administrator (CSA)
+- Google Data Analytics
+- Power BI
+- SQL
+- Python
+- Machine Learning
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sachinsingh008">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Sachin_Singh_008/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48"/>
+</a>
+
+<a href="https://stackoverflow.com/users/31107710/sachin-singh">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="48"/>
+</a>
+
+<a href="https://sachinsingh008.github.io/portfolio/">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh008&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SachinSingh008&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SachinSingh008/SachinSingh008/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📊 Contribution Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinSingh008&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinSingh008&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinSingh008&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinSingh008&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinSingh008&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Code is not just written to make machines work.
+> Great software solves real problems for real people."
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
