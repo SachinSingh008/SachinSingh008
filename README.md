@@ -1,255 +1,178 @@
-<h1 align="center">
-Hi 👋, I'm Sachin Singh
-</h1>
+<h1 align="center">Hi 👋, I'm Sachin Singh</h1>
 
 <h3 align="center">
-AI Engineer • Data Scientist • Full Stack Developer • Problem Solver
+AI Engineer • Data Scientist • Full Stack Developer • Building Intelligent Software
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer;Building+Products+that+Matter" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Data+Science+Enthusiast;Full+Stack+Developer;Machine+Learning+Engineer;Building+Scalable+AI+Products;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SachinSingh008&label=Profile+Views&color=0e75b6&style=flat"/>
-
-<img src="https://img.shields.io/github/followers/SachinSingh008?label=Followers&style=social"/>
-
-<img src="https://img.shields.io/github/stars/SachinSingh008?affiliations=OWNER&style=social"/>
-
+  <img src="https://komarev.com/ghpvc/?username=SachinSingh008&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/SachinSingh008?style=for-the-badge&logo=github"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Computer Science Engineer
+Hi, I'm **Sachin Singh** 👋
 
-💼 Passionate about solving real-world problems using AI and scalable software.
+I'm a **Computer Science Engineer** passionate about building intelligent software that solves real-world problems. My interests span **Artificial Intelligence, Data Science, Full-Stack Development, Cloud Technologies, and Scalable System Design**. I enjoy transforming complex business requirements into efficient, user-friendly, and production-ready applications.
 
-🔭 Currently Building
-
-- AI based Optimization Software
-- Industrial ERP Solutions
-- AI Recommendation Systems
-- Full Stack SaaS Applications
-
-🌱 Currently Learning
-
-- System Design
-- Cloud Computing
-- Kubernetes
-- LLM Engineering
-- Advanced Machine Learning
-
-💬 Ask me about
-
-```
-Python
-React
-Next.js
-Flutter
-Machine Learning
-Power BI
-SQL
-Firebase
-AI
-```
-
-⚡ Fun Fact
-
-> I enjoy turning complex business problems into intelligent software.
+- 🔭 **Currently Building:** AI Optimization Software, Industrial ERP Solutions, AI Recommendation Systems & Full-Stack SaaS Applications
+- 🌱 **Currently Learning:** System Design, Cloud Computing, Kubernetes, LLM Engineering & Advanced Machine Learning
+- 💡 **Passionate About:** Machine Learning, Data Analytics, Recommendation Systems, Automation & Modern Web Technologies
+- 💬 **Ask Me About:** Python, React, Next.js, Flutter, SQL, Firebase, Power BI, AI & Data Science
+- 🎯 **Career Goal:** Building scalable AI-powered products that create meaningful business impact.
+- ⚡ **Fun Fact:** I love solving challenging business problems through clean architecture, automation, and intelligent software.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,php,javascript,typescript,dart"/>
-
 </p>
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite"/>
-
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,firebase"/>
-
 </p>
 
 ---
 
-## Mobile
+## 📱 Mobile
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=flutter"/>
-
 </p>
 
 ---
 
-## Database
+## 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase"/>
 </p>
 
 ---
 
-## AI / Data Science
+## 🚀 Expertise
 
-<p>
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+<td valign="top" width="25%">
 
-</p>
+### 🤖 AI & ML
 
-| Libraries |
-|-----------|
-| NumPy |
-| Pandas |
-| Scikit-Learn |
-| Matplotlib |
-| Seaborn |
-| XGBoost |
-| TensorFlow |
-| Keras |
-| OpenCV |
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Recommendation Systems
+- Predictive Modeling
+- TensorFlow
+- Keras
+- Scikit-Learn
+- NumPy
+- Pandas
+- OpenCV
 
----
+</td>
 
-## Data Analytics
+<td valign="top" width="25%">
+
+### 📊 Data Analytics
 
 - Power BI
-- Excel
 - SQL
-- Looker
-- Tableau (Basics)
+- Microsoft Excel
+- Data Visualization
+- Dashboard Development
+- KPI Reporting
+- ETL
+- Data Cleaning
+- Statistical Analysis
+- Data Modeling
 
----
+</td>
 
-## Cloud & DevOps
+<td valign="top" width="25%">
 
-<p>
+### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify"/>
-
-</p>
-
----
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🛍 HypeNest
-
-AI Powered Fashion Recommendation Platform
-
-- React
-- Python
-- TensorFlow
-- Flask
-- MySQL
-
----
-
-### 📈 TruPoint
-
-Stock Market Advisory Platform
-
-- Flutter
+- Git
+- GitHub
+- Docker
+- Linux
 - Firebase
-- Node.js
-- PostgreSQL
-- Zerodha API
+- Vercel
+- Netlify
 
----
+</td>
 
-### 🍽 Tap2Eat
+<td valign="top" width="25%">
 
-QR Based Restaurant Ordering System
+### 🛠️ Tools
 
-- Next.js
-- Firebase
-- AI Chatbot
+- VS Code
+- Figma
+- Postman
+- Notion
+- GitHub Desktop
+- Jupyter Notebook
+- Android Studio
 
----
+</td>
 
-### ⚙️ OptiCutter
-
-Industrial Steel Optimization Software
-
-- React
-- Firebase
-- Optimization Algorithms
-
----
-
-### 🤖 AI Fashion Recommendation
-
-Deep Learning Image Recommendation using ResNet50
-
+</tr>
+</table>
 ---
 
 # 🏆 Certifications
 
-- ServiceNow Certified System Administrator (CSA)
-- Google Data Analytics
-- Power BI
-- SQL
-- Python
-- Machine Learning
+- 🥇 ServiceNow Certified System Administrator (CSA)
+- 📊 Power BI
+- 🗄️ SQL
+- 🐍 Python
+- 🤖 Machine Learning
+
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/sachinsingh008">
+<a href="https://www.linkedin.com/in/sachinsingh008/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/Sachin_Singh_008/">
+<a href="https://leetcode.com/u/Sachin_Singh_008/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="48"/>
 </a>
 
-<a href="https://stackoverflow.com/users/31107710/sachin-singh">
+<a href="https://stackoverflow.com/users/31107710/sachin-singh" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="48"/>
 </a>
 
-<a href="https://sachinsingh008.github.io/portfolio/">
-🌐 Portfolio
+<a href="https://sachinsingh008.github.io/portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge"/>
 </a>
 
 </p>
@@ -260,43 +183,23 @@ Deep Learning Image Recommendation using ResNet50
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SachinSingh008&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SachinSingh008&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinSingh008&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh008&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SachinSingh008&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SachinSingh008&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SachinSingh008/SachinSingh008/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📊 Contribution Stats
+# 📈 GitHub Summary
 
 <p align="center">
 
@@ -306,31 +209,30 @@ Deep Learning Image Recommendation using ResNet50
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinSingh008&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinSingh008&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinSingh008&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinSingh008&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinSingh008&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinSingh008&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinSingh008&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinSingh008&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 💡 Quote
-
-> "Code is not just written to make machines work.
-> Great software solves real problems for real people."
-
----
+# 💭 Developer Philosophy
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
+<i>"Great software isn't just about writing code—it's about solving meaningful problems, creating exceptional user experiences, and continuously learning to build better solutions."</i>
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</h3>
